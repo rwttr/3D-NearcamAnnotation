@@ -1,0 +1,93 @@
+{
+    "name": "3D Nearcam Tapline Demo",
+    "securityToken": "3D Nearcam Tapline Demo Token",
+    "sourceConnection": {
+        "name": "3D Tapline Annotation Demo",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmVlMzVjYTM5NzZhNjYwYjY5MjlmYWQ3ZDA3NjAwMjg1ZDJjMTFiYWE4YzRjMTM4NDg4YzM2YWI3MjkzNjRhOTQ2NGJhZDMxYTZlNzJkZTA2Y2NlMTNkNzQzN2YxMzAxNTU1OGU5NTdkZWExYzI5NWM1ZjAwM2Y1MDdmZTcxY2UiLCJpdiI6ImI5ZTU4YTZkMmM4YzE5MzE0ZTZkZTc1OTVlMzlmMWJiOWMxYmM5NTJkMWRlOWQ3MCJ9"
+        },
+        "id": "qtddxEGK7"
+    },
+    "targetConnection": {
+        "name": "3D Tapline Annotation Demo",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzU2ZDA2ZjZhOTVjNzM3YmQ3ODViN2ZiNzdmZGRmNjdiMWUyZmVlOTJlNGRiYTMxZGYwNjMzY2U4M2FlYWU3ZDVmYmZhMTZlOTBiNWM1ZmFiNjY4MWE0NmVhNzdiMTE5NmQyM2ZmNTI1NmFiNmIzY2YxN2NjMjBiYjZkYzU3ZmMiLCJpdiI6IjZhZjliZDg3YzgxYjMxYjlhOTJjOWRlZTVjZDBlZThhMzZmZmJlYzE1MDYzMzMzMiJ9"
+        },
+        "id": "qtddxEGK7"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 10
+    },
+    "tags": [
+        {
+            "name": "Tapline",
+            "color": "#5db300"
+        }
+    ],
+    "id": "BdZIko_cA",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiN2JjYTk5YjUwNzQ1ODU1YzVkNjgyMjM0OWQ2YWQwNzlkNTlhN2QzZmQ4ODg3OWJjZGI1NTA5ZjIyOWE2NTRlOGUxMzljNGE2Yjk4MDllOWNlNzExYzI5ODI1MjkzNWMyIiwiaXYiOiI1NWVkMGRmOWMwMjVmZGI0YmVkY2JiMDZjNjlmODdlMGFmZjczNmNkNTkzMjJmNDEifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "84aba464d680bd3d525f682201581d85",
+    "assets": {
+        "dafcb25447066dbac18a3c011a104a2b": {
+            "format": "png",
+            "id": "dafcb25447066dbac18a3c011a104a2b",
+            "name": "depth16.png",
+            "path": "file:E:/NearcamAnnotation/sampleImages/depth16.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0b2e0d7dd3f603dfcfa4570536318f26": {
+            "format": "png",
+            "id": "0b2e0d7dd3f603dfcfa4570536318f26",
+            "name": "rgb2.png",
+            "path": "file:E:/NearcamAnnotation/sampleImages/rgb2.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "84aba464d680bd3d525f682201581d85": {
+            "format": "png",
+            "id": "84aba464d680bd3d525f682201581d85",
+            "name": "rgb1.png",
+            "path": "file:E:/NearcamAnnotation/sampleImages/rgb1.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "866d91bf1abda1cb7ca2cd1c5b8740aa": {
+            "format": "png",
+            "id": "866d91bf1abda1cb7ca2cd1c5b8740aa",
+            "name": "depth8.png",
+            "path": "file:E:/NearcamAnnotation/sampleImages/depth8.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}
