@@ -229,9 +229,3 @@ colsize!(fig.layout, 2, Relative(2 / 7))
 
 fig
 ## 
-""" Frequency Analysis"""
-
-
-using FFTW
-import Plots
-testx = fftshift(polyline_itp_3d)

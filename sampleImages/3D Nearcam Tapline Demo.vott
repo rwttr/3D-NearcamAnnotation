@@ -5,7 +5,7 @@
         "name": "3D Tapline Annotation Demo",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmVlMzVjYTM5NzZhNjYwYjY5MjlmYWQ3ZDA3NjAwMjg1ZDJjMTFiYWE4YzRjMTM4NDg4YzM2YWI3MjkzNjRhOTQ2NGJhZDMxYTZlNzJkZTA2Y2NlMTNkNzQzN2YxMzAxNTU1OGU5NTdkZWExYzI5NWM1ZjAwM2Y1MDdmZTcxY2UiLCJpdiI6ImI5ZTU4YTZkMmM4YzE5MzE0ZTZkZTc1OTVlMzlmMWJiOWMxYmM5NTJkMWRlOWQ3MCJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYWExNjQxYjA5MjJkYTY5ZjBkMzlkMWViNDAwNzYyMTFmMmU0MWQ0NmU1YzEyZDBkZTk1Njk4NGZhMzdiZjI0Njk1MzNkNWUzNWIxODc4NWZmMDA1OThlOTcxNzE2Njk1ODViNTkwN2EwMTI3NDhlMGZhNWNmN2ZlMDVlZDk0NGIiLCJpdiI6ImMwZDU3YjZkYjBmODdkMjc2YWYzODRmMGMxZjE0ZjQ3NjhiYmU5NGFhMDFkMGYwNCJ9"
         },
         "id": "qtddxEGK7"
     },
@@ -13,7 +13,7 @@
         "name": "3D Tapline Annotation Demo",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzU2ZDA2ZjZhOTVjNzM3YmQ3ODViN2ZiNzdmZGRmNjdiMWUyZmVlOTJlNGRiYTMxZGYwNjMzY2U4M2FlYWU3ZDVmYmZhMTZlOTBiNWM1ZmFiNjY4MWE0NmVhNzdiMTE5NmQyM2ZmNTI1NmFiNmIzY2YxN2NjMjBiYjZkYzU3ZmMiLCJpdiI6IjZhZjliZDg3YzgxYjMxYjlhOTJjOWRlZTVjZDBlZThhMzZmZmJlYzE1MDYzMzMzMiJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNjkyNjc0MDBkZmFiOGIxNzQ3ZWM3ZTYyZDQ3MTI2OTJjOGNjZWI2ZjJlZjlmNjFlMDM3YjY2NTU0MGE4OGIyYmJmZDMwYzgyY2Y4ZGM0M2FjM2M2YjA2MzAzMmM1NWE3MTM0ZmY1MzQxOThjY2FiMzNkYjhhOTYyOWFkMjZhOWUiLCJpdiI6IjQyNjE5Mzc4YjgyOGI2MGY2ZTE0YjAwN2I2MGQzNjc1NjZhMzMxZTBhMzgwZjdhMiJ9"
         },
         "id": "qtddxEGK7"
     },
@@ -35,7 +35,7 @@
     "exportFormat": {
         "providerType": "vottJson",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiN2JjYTk5YjUwNzQ1ODU1YzVkNjgyMjM0OWQ2YWQwNzlkNTlhN2QzZmQ4ODg3OWJjZGI1NTA5ZjIyOWE2NTRlOGUxMzljNGE2Yjk4MDllOWNlNzExYzI5ODI1MjkzNWMyIiwiaXYiOiI1NWVkMGRmOWMwMjVmZGI0YmVkY2JiMDZjNjlmODdlMGFmZjczNmNkNTkzMjJmNDEifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTdkZWNmYTY3ZGNmYWRkMDQwOTlhNDlhNGIxMTA0MjYzN2JjZTI4MGExMjU4ODM5ZTBmN2EzNjA5MTVmODJjOGM4ZjBkNmNhYjE5NTYyMTYyMmZjNmQ5NjEwNWEyMTUzIiwiaXYiOiI5YjBhNDU2YzJiNWY2MTYyNzA1NWYyYzY0ZTBjM2Q3Y2ExYjcwNjk2NDRhYzI5OWMifQ=="
         }
     },
     "version": "2.1.0",
